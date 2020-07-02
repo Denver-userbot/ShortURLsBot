@@ -4,7 +4,7 @@
 '''
 
 # Token of the bot. Get it one from https://telegram.me/BotFather
-TOKEN = ""
+TOKEN = "1134950680:AAF0NMdN3UKv6q9p8zb94oeHr_wONSYLDZU"
 # Telegram IDs list of admins of the bot (that can issue /users command)
 ADMINS = []
 
